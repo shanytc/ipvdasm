@@ -1,0 +1,8 @@
+The Proview (a.k.a PVDasm) Disassembler project is Free, Interactive, Multi-CPU (Intel 80x86/ Chip8) that includes many features which allows the user to perform analysis on the target image file. PVDasm currently support image files of executable files (.exe), dynamic executable images (.dll) and Game-Boy image files (.gb/.gbc). Proview disassembler is being developed now for over 6 years and the work has never stopped (might be delayed) since than. PVDasm is always intended to be a free disassembler without any profits what so ever, this makes Proview different than the other disassemblers' out there.
+
+PVDasm has been coded by me in 2002, history can shows that the first Proview engine was developed as a side project and was integrated as a part of a packer identifier which was also coded by me and was released in the name and version of Proview v0.8. Later that year this has changed, PVDasm disassembly engine has recoded from scratch with the aid of Intel x86 Books and the online opcode decoding tutorials and information of The-Svin as a project for my university. Proview disassembler disassembly engine does not use any 3rd party code or any other disassembler's code and operates by its own code. Currently the engine decodes the Intel 80x86 (32Bit) architecture (and hopefully later on will support the 64Bit architecture decoding) and support the different operation sets such as MMX/SSEx/3D Now! More than Intel, PVDasm also decodes the Chip8 CPU (and old CPU with minimal set of opcodes) which was used year back for gaming.
+
+![http://img112.imageshack.us/img112/7885/ipvdasmuy2.jpg](http://img112.imageshack.us/img112/7885/ipvdasmuy2.jpg)
+
+
+iPVDasm is a part of the http://pvdasm.tk-labs.com Project
